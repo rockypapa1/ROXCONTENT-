@@ -1,0 +1,11 @@
+{
+  "name": "creatorhub",
+  "version": "1.0.0",
+  "description": "AI Toolkit for Content Creators",
+  "scripts": {
+    "vercel-build": "echo 'Build complete'"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
